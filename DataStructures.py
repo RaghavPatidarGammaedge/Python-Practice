@@ -19,7 +19,7 @@ y.reverse()
 print(y)
 y.sort()
 print(y)
-#print(x.sort())  ----- cannot sort an heterogenous list
+#print(x.sort())  ----- cannot sort a heterogenous list
 y.sort(reverse=True)
 print(y)
 x.sort(reverse=True)
