@@ -9,7 +9,7 @@ except ZeroDivisionError:
 except ValueError:
     print("ValueError")
 
-else:          #executed when none exception arises
+else:          #executed when none error arises
     print("Result is", ans)
 
 finally:       #Always executable block
